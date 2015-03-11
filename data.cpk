@@ -1,0 +1,1892 @@
+(dp1
+S'Noun List'
+p2
+(dp3
+S'CPit Noun A'
+p4
+(lp5
+S'Bird'
+p6
+aS'Buffalo'
+p7
+aS'Bullet'
+p8
+aS'Camel'
+p9
+aS'Cannon'
+p10
+aS'Chaser'
+p11
+aS'Crest'
+p12
+aS'Drifter'
+p13
+aS'Egg'
+p14
+aS'Fox'
+p15
+aS'Gorilla'
+p16
+aS'Lynx'
+p17
+aS'Phantom'
+p18
+aS'Rex'
+p19
+aS'Shark'
+p20
+aS'Snail'
+p21
+aS'Snake'
+p22
+aS'Soldier'
+p23
+aS'Spear'
+p24
+aS'Viper'
+p25
+aS'Worm'
+p26
+asS'CPit Noun B'
+p27
+(lp28
+S'Bison'
+p29
+aS'Fighter'
+p30
+aS'Gambler'
+p31
+aS'Giraffe'
+p32
+aS'Insect'
+p33
+aS'King'
+p34
+aS'Kite'
+p35
+aS'Lancer'
+p36
+aS'Legion'
+p37
+aS'Lizard'
+p38
+aS'Lobster'
+p39
+aS'Master'
+p40
+aS'Mirage'
+p41
+aS'Rider'
+p42
+aS'Serpent'
+p43
+aS'Shot'
+p44
+aS'Sniper'
+p45
+aS'Tusk'
+p46
+aS'Typhoon'
+p47
+aS'Unicorn'
+p48
+aS'Vixen'
+p49
+asS'Body Noun B'
+p50
+(lp51
+S'Beetle'
+p52
+aS'Blade'
+p53
+aS'Bruiser'
+p54
+aS'Circle'
+p55
+aS'Condor'
+p56
+aS'Coyote'
+p57
+aS'Crab'
+p58
+aS'Drake'
+p59
+aS'Emperor'
+p60
+aS'Gauntlet'
+p61
+aS'General'
+p62
+aS'Glider'
+p63
+aS'Grampus'
+p64
+aS'Javelin'
+p65
+aS'Magnum'
+p66
+aS'Mustang'
+p67
+aS'Panther'
+p68
+aS'Pigeon'
+p69
+aS'Squid'
+p70
+aS'Tank'
+p71
+aS'Wyvern'
+p72
+asS'Body Noun A'
+p73
+(lp74
+S'Barrel'
+p75
+aS'Base'
+p76
+aS'Bull'
+p77
+aS'Cancer'
+p78
+aS'Chariot'
+p79
+aS'Cruiser'
+p80
+aS'Dragon'
+p81
+aS'Eagle'
+p82
+aS'Goose'
+p83
+aS'Hammer'
+p84
+aS'Horse'
+p85
+aS'Jaguar'
+p86
+aS'Manta'
+p87
+aS'Planet'
+p88
+aS'Spider'
+p89
+aS'Swallow'
+p90
+aS'Sword'
+p91
+aS'Tyrant'
+p92
+aS'Whale'
+p93
+aS'Wing'
+p94
+aS'Wolf'
+p95
+assS'Booster Parts'
+p96
+(dp97
+S'Unlock Method'
+p98
+(lp99
+S'Free Starting Part'
+p100
+aS'Diamond Cup EXPERT / F-Zero AX'
+p101
+aS'Story Chap. 3 HARD / F-Zero AX'
+p102
+aS'Story Chap. 1 HARD / F-Zero AX'
+p103
+aS'Grand Prix NOVICE (6)'
+p104
+aS'Available from Start'
+p105
+aS'Special F-Zero AX Link'
+p106
+aS'Story Chap. 2 HARD / F-Zero AX'
+p107
+aS'Story Chap. 7 HARD / F-Zero AX'
+p108
+aS'Available from Start'
+p109
+aS'Story Chap. 5 HARD / F-Zero AX'
+p110
+aS'Available from Start'
+p111
+aS'Available from Start'
+p112
+aS'Story Chap. 4 HARD / F-Zero AX'
+p113
+aS'Story Chap. 8 HARD / F-Zero AX'
+p114
+aS'Grand Prix STANDARD (6)'
+p115
+aS'Grand Prix NOVICE (3)'
+p116
+aS'Story Chap. 6 HARD / F-Zero AX'
+p117
+aS'Grand Prix STANDARD (3)'
+p118
+aS'Story Chap. 9 HARD / F-Zero AX'
+p119
+asS'Cost'
+p120
+(lp121
+S'0'
+aS'8'
+aS'8'
+aS'8'
+aS'4'
+aS'3'
+aS'8?'
+p122
+aS'8'
+aS'8'
+aS'5'
+aS'8'
+aS'4'
+aS'4'
+aS'8'
+aS'8'
+aS'5'
+aS'5'
+aS'8'
+aS'7'
+aS'8'
+asS'Boost'
+p123
+(lp124
+S'E'
+aS'E'
+aS'D'
+aS'D'
+aS'D'
+aS'D'
+aS'D'
+aS'C'
+aS'C'
+aS'C'
+aS'C'
+aS'C'
+aS'C'
+aS'B'
+aS'B'
+aS'B'
+aS'B'
+aS'B'
+aS'A'
+aS'A'
+asS'Name'
+p125
+(lp126
+S'Sunrise 140'
+p127
+aS'Euros -01'
+p128
+aS'Impulse 220'
+p129
+aS'Jupiter -Q'
+p130
+aS'Saturn -SG'
+p131
+aS'Bazooka -YS'
+p132
+aS'Mars -EX'
+p133
+aS'Comet -V'
+p134
+aS'Triangle -GT'
+p135
+aS'Boxer -2C'
+p136
+aS'Bluster -X'
+p137
+aS'Tiger -RZ'
+p138
+aS'Scorpion -R'
+p139
+aS'Extreme -ZZ'
+p140
+aS'Meteor -RR'
+p141
+aS'Raiden -88'
+p142
+aS'Titan -G4'
+p143
+aS'Punisher -4X'
+p144
+aS'Triple -Z'
+p145
+aS'Devilfish -RX'
+p146
+asS'Weight'
+p147
+(lp148
+S'140kg'
+p149
+aS'160kg'
+p150
+aS'220kg'
+p151
+aS'230kg'
+p152
+aS'240kg'
+p153
+aS'250kg'
+p154
+aS'270kg'
+p155
+aS'330kg'
+p156
+aS'340kg'
+p157
+aS'350kg'
+p158
+aS'360kg'
+p159
+aS'380kg'
+p160
+aS'400kg'
+p161
+aS'480kg'
+p162
+aS'500kg'
+p163
+aS'530kg'
+p164
+aS'540kg'
+p165
+aS'580kg'
+p166
+aS'660kg'
+p167
+aS'800kg'
+p168
+assS'Body Names'
+p169
+(dp170
+S'Body Name B'
+p171
+(lp172
+S'Frost Drake'
+p173
+aS'Jumbo Emperor'
+p174
+aS'Strike Condor'
+p175
+aS'Gallant Gauntlet'
+p176
+aS'Burning Coyote'
+p177
+aS'Pretty Pigeon'
+p178
+aS'Cosmic Circle'
+p179
+aS'Great General'
+p180
+aS'Sacred Glider'
+p181
+aS'Flying Squid'
+p182
+aS'Rowdy Beetle'
+p183
+aS'Heavy Bruiser'
+p184
+aS'Photon Blade'
+p185
+aS'Shock Magnum'
+p186
+aS'Arch Javelin'
+p187
+aS'Acro Mustang'
+p188
+aS'Astro Crab'
+p189
+aS'Quick Wyvern'
+p190
+aS'Flash Grampus'
+p191
+aS'Berserk Panther'
+p192
+asS'Body Name A'
+p193
+(lp194
+S'Aqua Goose'
+p195
+aS'Big Tyrant'
+p196
+aS'Brave Eagle'
+p197
+aS'Dread Hammer'
+p198
+aS'Fire Wolf'
+p199
+aS'Funny Swallow'
+p200
+aS'Giant Planet'
+p201
+aS'Grand Base'
+p202
+aS'Holy Spider'
+p203
+aS'Liberty Manta'
+p204
+aS'Mad Bull'
+p205
+aS'Megalo Cruiser'
+p206
+aS'Optical Wing'
+p207
+aS'Rapid Barrel'
+p208
+aS'Silver Sword'
+p209
+aS'Sky Horse'
+p210
+aS'Space Cancer'
+p211
+aS'Speedy Dragon'
+p212
+aS'Splash Whale'
+p213
+aS'Valiant Jaguar'
+p214
+assS'Body Parts'
+p215
+(dp216
+S'Body'
+p217
+(lp218
+S'E'
+aS'E'
+aS'D'
+aS'D'
+aS'D'
+aS'D'
+aS'C'
+aS'C'
+aS'C'
+aS'C'
+aS'C'
+aS'C'
+aS'B'
+aS'B'
+aS'B'
+aS'B'
+aS'B'
+aS'A'
+aS'A'
+aS'A'
+asS'Unlock Method'
+p219
+(lp220
+S'Ruby Sapphire Emerald EXPERT'
+p221
+aS'Story Chap. 9 HARD / F-Zero AX'
+p222
+aS'Grand Prix STANDARD (1)'
+p223
+aS'Story Chap. 2 HARD / F-Zero AX'
+p224
+aS'Diamond Cup EXPERT / F-Zero AX'
+p225
+aS'Free Starting Part'
+p226
+aS'Story Chap. 5 HARD / F-Zero AX'
+p227
+aS'Grand Prix NOVICE (1)'
+p228
+aS'Story Chap. 1 HARD / F-Zero AX'
+p229
+aS'Available from Start'
+p230
+aS'Story Chap. 6 HARD / F-Zero AX'
+p231
+aS'Available from Start'
+p232
+aS'Story Chap. 7 HARD / F-Zero AX'
+p233
+aS'Available from Start'
+p234
+aS'Special F-Zero AX Link'
+p235
+aS'Grand Prix NOVICE (4)'
+p236
+aS'Story Chap. 4 HARD / F-Zero AX'
+p237
+aS'Available from Start'
+p238
+aS'Story Chap. 8 HARD / F-Zero AX'
+p239
+aS'Grand Prix STANDARD (4)'
+p240
+asS'Cost'
+p241
+(lp242
+S'10'
+p243
+aS'8'
+aS'7'
+aS'8'
+aS'8'
+aS'0'
+aS'8'
+aS'5'
+aS'8'
+aS'4'
+aS'8'
+aS'4'
+aS'8'
+aS'3'
+aS'8?'
+p244
+aS'4'
+aS'8'
+aS'5'
+aS'8'
+aS'5'
+asS'Name'
+p245
+(lp246
+S'Speedy Dragon'
+p247
+aS'Splash Whale'
+p248
+aS'Liberty Manta'
+p249
+aS'Optical Wing'
+p250
+aS'Brave Eagle'
+p251
+aS'Funny Swallow'
+p252
+aS'Holy Spider'
+p253
+aS'Rapid Barrel'
+p254
+aS'Silver Sword'
+p255
+aS'Sky Horse'
+p256
+aS'Space Cancer'
+p257
+aS'Aqua Goose'
+p258
+aS'Wild Chariot'
+p259
+aS'Fire Wolf'
+p260
+aS'Mad Bull'
+p261
+aS'Valiant Jaguar'
+p262
+aS'Giant Planet'
+p263
+aS'Grand Base'
+p264
+aS'Dread Hammer'
+p265
+aS'Big Tyrant'
+p266
+asS'Weight'
+p267
+(lp268
+S'240kg'
+p269
+aS'280kg'
+p270
+aS'380kg'
+p271
+aS'420kg'
+p272
+aS'460kg'
+p273
+aS'490kg'
+p274
+aS'540kg'
+p275
+aS'580kg'
+p276
+aS'620kg'
+p277
+aS'640kg'
+p278
+aS'680kg'
+p279
+aS'700kg'
+p280
+aS'800kg'
+p281
+aS'840kg'
+p282
+aS'900kg'
+p283
+aS'1000kg'
+p284
+aS'1020kg'
+p285
+aS'1380kg'
+p286
+aS'1440kg'
+p287
+aS'1500kg'
+p288
+assS'Special Machine Names'
+p289
+(dp290
+S'Body'
+p291
+(lp292
+S'Splash Wh.'
+p293
+aS'Optical W.'
+p294
+aS'Liberty M.'
+p295
+aS'Funny Sw.'
+p296
+aS'Funny Sw.'
+p297
+aS'Optical W.'
+p298
+aS'Optical W.'
+p299
+aS'Speedy Dr.'
+p300
+aS'Optical W.'
+p301
+aS'Speedy Dr.'
+p302
+aS'Splash Wh.'
+p303
+aS'Funny Sw.'
+p304
+aS'Funny Sw.'
+p305
+aS'Holy Sp.'
+p306
+aS'Holy Sp.'
+p307
+aS'Rapid Bar.'
+p308
+aS'Silver Sw.'
+p309
+aS'Optical W.'
+p310
+aS'Aqua Goose'
+p311
+aS'Space Can.'
+p312
+aS'Liberty M.'
+p313
+aS'Rapid Bar.'
+p314
+aS'Sky Horse'
+p315
+aS'Space Can.'
+p316
+aS'Sky Horse'
+p317
+aS'Wild Char.'
+p318
+aS'Silver Sw.'
+p319
+aS'Fire Wolf'
+p320
+aS'Giant Pl.'
+p321
+aS'Valiant J.'
+p322
+aS'Valiant J.'
+p323
+aS'Fire Wolf'
+p324
+aS'Mad Bull'
+p325
+aS'Valiant J.'
+p326
+aS'Aqua Goose'
+p327
+aS'Fire Wolf'
+p328
+aS'Dread Ha.'
+p329
+aS'Big Tyrant'
+p330
+aS'Rapid Bar.'
+p331
+aS'Big Tyrant'
+p332
+aS'Dread Ha.'
+p333
+aS'Megalo Cr.'
+p334
+aS'Dread Ha.'
+p335
+aS'Aqua Goose'
+p336
+aS'Grand Base'
+p337
+aS'Big Tyrant'
+p338
+aS'Dread Ha.'
+p339
+aS'Megalo Cr.'
+p340
+aS'Megalo Cr.'
+p341
+aS'Grand Base'
+p342
+aS'Grand Base'
+p343
+aS'Grand Base'
+p344
+aS'Dread Ha.'
+p345
+asS'Stats'
+p346
+(lp347
+S'E C D'
+p348
+aS'D D D'
+p349
+aS'D D C'
+p350
+aS'D D E'
+p351
+aS'D D E'
+p352
+aS'D D C'
+p353
+aS'D D C'
+p354
+aS'E E A'
+p355
+aS'D E B'
+p356
+aS'E B C'
+p357
+aS'E C B'
+p358
+aS'D C C'
+p359
+aS'D C C'
+p360
+aS'C C D'
+p361
+aS'C E B'
+p362
+aS'C C E'
+p363
+aS'C C D'
+p364
+aS'D D A'
+p365
+aS'C D C'
+p366
+aS'C C E'
+p367
+aS'D A C'
+p368
+aS'C B D'
+p369
+aS'C D B'
+p370
+aS'C B E'
+p371
+aS'C B D'
+p372
+aS'B E B'
+p373
+aS'C B C'
+p374
+aS'B D B'
+p375
+aS'B C E'
+p376
+aS'B E B'
+p377
+aS'B B E'
+p378
+aS'B B C'
+p379
+aS'B D A'
+p380
+aS'B E A'
+p381
+aS'C A C'
+p382
+aS'B C A'
+p383
+aS'A E E'
+p384
+aS'A D E'
+p385
+aS'C A A'
+p386
+aS'A D D'
+p387
+aS'A E B'
+p388
+aS'A D D'
+p389
+aS'A B E'
+p390
+aS'C A A'
+p391
+aS'A B C'
+p392
+aS'A C C'
+p393
+aS'A D A'
+p394
+aS'A B E'
+p395
+aS'A D B'
+p396
+aS'A B B'
+p397
+aS'A B B'
+p398
+aS'A A E'
+p399
+aS'A B A'
+p400
+asS'Name'
+p401
+(lp402
+S'Queen Sapphire'
+p403
+aS'Bird Of Paradise'
+p404
+aS'Ground Wave'
+p405
+aS'Out Rider'
+p406
+aS'Icarus Wing'
+p407
+aS'Fortissimo'
+p408
+aS'Trickster'
+p409
+aS'Paper Craft'
+p410
+aS'Savanna Buggy'
+p411
+aS'Dragoon'
+p412
+aS'Red Salamander'
+p413
+aS'Gargoyle'
+p414
+aS'Liberator'
+p415
+aS'Blue Streak'
+p416
+aS'Carbunkle'
+p417
+aS'Long Shot'
+p418
+aS'Enigma'
+p419
+aS'Valkyrie'
+p420
+aS'Splash Mermaid'
+p421
+aS'Astro Scorpion'
+p422
+aS'Fantasista'
+p423
+aS'Salvation'
+p424
+aS'Emerald Pegasus'
+p425
+aS'Hermit Crab'
+p426
+aS'Master Work'
+p427
+aS'Centaurus'
+p428
+aS'Alexander'
+p429
+aS'Liberty Triton'
+p430
+aS'Super Nova'
+p431
+aS'Triumph'
+p432
+aS'Grand Elephant'
+p433
+aS'Beat The Beast'
+p434
+aS'Bahamut'
+p435
+aS'Scorcher'
+p436
+aS'Aqua Griffin'
+p437
+aS'Fire Ball'
+p438
+aS'Leviathan'
+p439
+aS'High Roller'
+p440
+aS'Eliminator'
+p441
+aS'Desert Camel'
+p442
+aS'Trailblazer'
+p443
+aS'Hippopotamus'
+p444
+aS'Poseidon'
+p445
+aS'Van Guard'
+p446
+aS'Bandersnatch'
+p447
+aS'Sockdolager'
+p448
+aS'Notorious Gear'
+p449
+aS'Big Ace'
+p450
+aS'Don Quixote'
+p451
+aS'King Neptune'
+p452
+aS'Almagest'
+p453
+aS'Nightmare'
+p454
+aS'Final Revolution'
+p455
+asS'Weight'
+p456
+(lp457
+S'880kg'
+p458
+aS'900kg'
+p459
+aS'920kg'
+p460
+aS'960kg'
+p461
+aS'980kg'
+p462
+aS'1000kg'
+p463
+aS'1010kg'
+p464
+aS'1040kg'
+p465
+aS'1060kg'
+p466
+aS'1100kg'
+p467
+aS'1100kg'
+p468
+aS'1170kg'
+p469
+aS'1170kg'
+p470
+aS'1170kg'
+p471
+aS'1180kg'
+p472
+aS'1220kg'
+p473
+aS'1250kg'
+p474
+aS'1290kg'
+p475
+aS'1290kg'
+p476
+aS'1330kg'
+p477
+aS'1360kg'
+p478
+aS'1390kg'
+p479
+aS'1390kg'
+p480
+aS'1410kg'
+p481
+aS'1440kg'
+p482
+aS'1490kg'
+p483
+aS'1530kg'
+p484
+aS'1540kg'
+p485
+aS'1610kg'
+p486
+aS'1690kg'
+p487
+aS'1710kg'
+p488
+aS'1740kg'
+p489
+aS'1770kg'
+p490
+aS'1780kg'
+p491
+aS'1810kg'
+p492
+aS'1830kg'
+p493
+aS'1830kg'
+p494
+aS'1980kg'
+p495
+aS'2000kg'
+p496
+aS'2030kg'
+p497
+aS'2080kg'
+p498
+aS'2110kg'
+p499
+aS'2170kg'
+p500
+aS'2180kg'
+p501
+aS'2190kg'
+p502
+aS'2210kg'
+p503
+aS'2260kg'
+p504
+aS'2330kg'
+p505
+aS'2330kg'
+p506
+aS'2380kg'
+p507
+aS'2390kg'
+p508
+aS'2480kg'
+p509
+aS'2620kg'
+p510
+asS'Cockpit'
+p511
+(lp512
+S'Crystal E.'
+p513
+aS'Moon Snail'
+p514
+aS'Sonic So.'
+p515
+aS'Windy Sh.'
+p516
+aS'Dark Ch.'
+p517
+aS'Red Rex'
+p518
+aS'Cyber Fox'
+p519
+aS'Garnet Ph.'
+p520
+aS'Heat Snake'
+p521
+aS'Bright Sp.'
+p522
+aS'Heat Snake'
+p523
+aS'Bright Sp.'
+p524
+aS'Scud Viper'
+p525
+aS'Wonder Wo.'
+p526
+aS'Heat Snake'
+p527
+aS'Aerial Bu.'
+p528
+aS'Wonder Wo.'
+p529
+aS'Garnet Ph.'
+p530
+aS'Cyber Fox'
+p531
+aS'Dark Ch.'
+p532
+aS'Scud Viper'
+p533
+aS'Blast Cam.'
+p534
+aS'Spark Bird'
+p535
+aS'Rave Dr.'
+p536
+aS'Moon Snail'
+p537
+aS'Spark Bird'
+p538
+aS'Bright Sp.'
+p539
+aS'Heat Snake'
+p540
+aS'Rave Dr.'
+p541
+aS'Spark Bird'
+p542
+aS'Rave Dr.'
+p543
+aS'Muscle Go.'
+p544
+aS'Crazy Bu.'
+p545
+aS'Garnet Ph.'
+p546
+aS'Sonic So.'
+p547
+aS'Garnet Ph.'
+p548
+aS'Dark Ch.'
+p549
+aS'Rave Dr.'
+p550
+aS'Combat Ca.'
+p551
+aS'Blast Cam.'
+p552
+aS'Energy Cr.'
+p553
+aS'Crystal E.'
+p554
+aS'Rave Dr.'
+p555
+aS'Combat Ca.'
+p556
+aS'Sonic So.'
+p557
+aS'Muscle Go.'
+p558
+aS'Crazy Bu.'
+p559
+aS'Rave Dr.'
+p560
+aS'Energy Cr.'
+p561
+aS'Super Lynx'
+p562
+aS'Spark Bird'
+p563
+aS'Aerial Bu.'
+p564
+aS'Crazy Bu.'
+p565
+asS'Booster'
+p566
+(lp567
+S'Comet -V'
+p568
+aS'Impulse'
+p569
+aS'Jupiter'
+p570
+aS'Bazooka'
+p571
+aS'Saturn'
+p572
+aS'Jupiter'
+p573
+aS'Impulse'
+p574
+aS'Euros -01'
+p575
+aS'Euros -01'
+p576
+aS'Raiden'
+p577
+aS'Triangle'
+p578
+aS'Boxer -2C'
+p579
+aS'Bluster'
+p580
+aS'Triangle'
+p581
+aS'Euros -01'
+p582
+aS'Scorpion'
+p583
+aS'Triangle'
+p584
+aS'Jupiter'
+p585
+aS'Impulse'
+p586
+aS'Scorpion'
+p587
+aS'Triple -Z'
+p588
+aS'Raiden'
+p589
+aS'Impulse'
+p590
+aS'Meteor'
+p591
+aS'Titan -G4'
+p592
+aS'Euros -01'
+p593
+aS'Punisher'
+p594
+aS'Impulse'
+p595
+aS'Bluster'
+p596
+aS'Euros -01'
+p597
+aS'Extreme'
+p598
+aS'Titan -G4'
+p599
+aS'Mars -EX'
+p600
+aS'Sunrise'
+p601
+aS'Devilfish'
+p602
+aS'Boxer -2C'
+p603
+aS'Sunrise'
+p604
+aS'Bazooka'
+p605
+aS'Devilfish'
+p606
+aS'Bazooka'
+p607
+aS'Sunrise'
+p608
+aS'Saturn'
+p609
+aS'Meteor'
+p610
+aS'Thunder.'
+p611
+aS'Meteor'
+p612
+aS'Boxer -2C'
+p613
+aS'Impulse'
+p614
+aS'Meteor'
+p615
+aS'Jupiter'
+p616
+aS'Titan -G4'
+p617
+aS'Extreme'
+p618
+aS'Thunder.'
+p619
+aS'Punisher'
+p620
+assS'Cockpit Parts'
+p621
+(dp622
+S'Grip'
+p623
+(lp624
+S'E'
+aS'E'
+aS'E'
+aS'E'
+aS'D'
+aS'D'
+aS'D'
+aS'D'
+aS'C'
+aS'C'
+aS'C'
+aS'C'
+aS'C'
+aS'C'
+aS'B'
+aS'B'
+aS'B'
+aS'B'
+aS'A'
+aS'A'
+asS'Unlock Method'
+p625
+(lp626
+S'Grand Prix STANDARD (5)'
+p627
+aS'Story Chap. 1 HARD / F-Zero AX'
+p628
+aS'Available from Start'
+p629
+aS'Story Chap. 4 HARD / F-Zero AX'
+p630
+aS'Available from Start'
+p631
+aS'Story Chap. 8 HARD / F-Zero AX'
+p632
+aS'Free Starting Part'
+p633
+aS'Diamond Cup EXPERT / F-Zero AX'
+p634
+aS'Story Chap. 9 HARD / F-Zero AX'
+p635
+aS'Grand Prix STANDARD (2)'
+p636
+aS'Available from Start'
+p637
+aS'Story Chap. 5 HARD / F-Zero AX'
+p638
+aS'Grand Prix NOVICE (5)'
+p639
+aS'Story Chap. 2 HARD / F-Zero AX'
+p640
+aS'Grand Prix NOVICE (2)'
+p641
+aS'Story Chap. 3 HARD / F-Zero AX'
+p642
+aS'Available from Start'
+p643
+aS'Story Chap. 6 HARD / F-Zero AX'
+p644
+aS'Special F-Zero AX Link'
+p645
+aS'Story Chap. 7 HARD / F-Zero AX'
+p646
+asS'Cost'
+p647
+(lp648
+S'5'
+aS'8'
+aS'3'
+aS'8'
+aS'4'
+aS'8'
+aS'0'
+aS'8'
+aS'8'
+aS'7'
+aS'4'
+aS'8'
+aS'4'
+aS'8'
+aS'5'
+aS'8'
+aS'5'
+aS'8'
+aS'8?'
+p649
+aS'8'
+asS'Name'
+p650
+(lp651
+S'Windy Shark'
+p652
+aS'Rave Drifter'
+p653
+aS'Aerial Bullet'
+p654
+aS'Dark Chaser'
+p655
+aS'Moon Snail'
+p656
+aS'Crystal Egg'
+p657
+aS'Blast Camel'
+p658
+aS'Wonder Worm'
+p659
+aS'Sonic Soldier'
+p660
+aS'Scud Viper'
+p661
+aS'Bright Spear'
+p662
+aS'Red Rex'
+p663
+aS'Muscle Gorilla'
+p664
+aS'Cyber Fox'
+p665
+aS'Super Lynx'
+p666
+aS'Heat Snake'
+p667
+aS'Energy Crest'
+p668
+aS'Spark Bird'
+p669
+aS'Crazy Buffalo'
+p670
+aS'Combat Cannon'
+p671
+asS'Weight'
+p672
+(lp673
+S'220kg'
+p674
+aS'230kg'
+p675
+aS'240kg'
+p676
+aS'250kg'
+p677
+aS'260kg'
+p678
+aS'270kg'
+p679
+aS'280kg'
+p680
+aS'290kg'
+p681
+aS'310kg'
+p682
+aS'320kg'
+p683
+aS'330kg'
+p684
+aS'350kg'
+p685
+aS'360kg'
+p686
+aS'370kg'
+p687
+aS'460kg'
+p688
+aS'480kg'
+p689
+aS'500kg'
+p690
+aS'530kg'
+p691
+aS'600kg'
+p692
+aS'620kg'
+p693
+assS'Adjective List'
+p694
+(dp695
+S'CPit Adj. B'
+p696
+(lp697
+S'Active'
+p698
+aS'Air'
+p699
+aS'Blaze'
+p700
+aS'Crimson'
+p701
+aS'Fever'
+p702
+aS'Flame'
+p703
+aS'Highway'
+p704
+aS'Jet'
+p705
+aS'Jewel'
+p706
+aS'Lunar'
+p707
+aS'Mighty'
+p708
+aS'Miracle'
+p709
+aS'Misty'
+p710
+aS'Plasma'
+p711
+aS'Royal'
+p712
+aS'Shadow'
+p713
+aS'Shining'
+p714
+aS'Slash'
+p715
+aS'Spicy'
+p716
+aS'Tornado'
+p717
+asS'CPit Adj. A'
+p718
+(lp719
+S'Aerial'
+p720
+aS'Blast'
+p721
+aS'Bright'
+p722
+aS'Crazy'
+p723
+aS'Crystal'
+p724
+aS'Combat'
+p725
+aS'Cyber'
+p726
+aS'Dark'
+p727
+aS'Energy'
+p728
+aS'Heat'
+p729
+aS'Garnet'
+p730
+aS'Moon'
+p731
+aS'Muscle'
+p732
+aS'Rave'
+p733
+aS'Red'
+p734
+aS'Scud'
+p735
+aS'Sonic'
+p736
+aS'Spark'
+p737
+aS'Super'
+p738
+aS'Windy'
+p739
+asS'Body Adj. A'
+p740
+(lp741
+S'Aqua'
+p742
+aS'Big'
+p743
+aS'Brave'
+p744
+aS'Dread'
+p745
+aS'Fire'
+p746
+aS'Funny'
+p747
+aS'Giant'
+p748
+aS'Grand'
+p749
+aS'Holy'
+p750
+aS'Liberty'
+p751
+aS'Mad'
+p752
+aS'Megalo'
+p753
+aS'Optical'
+p754
+aS'Rapid'
+p755
+aS'Silver'
+p756
+aS'Sky'
+p757
+aS'Space'
+p758
+aS'Speedy'
+p759
+aS'Splash'
+p760
+aS'Valiant'
+p761
+asS'Body Adj. B'
+p762
+(lp763
+S'Arco'
+p764
+aS'Arch'
+p765
+aS'Astro'
+p766
+aS'Berserk'
+p767
+aS'Burning'
+p768
+aS'Cosmic'
+p769
+aS'Flash'
+p770
+aS'Flying'
+p771
+aS'Frost'
+p772
+aS'Gallant'
+p773
+aS'Great'
+p774
+aS'Heavy'
+p775
+aS'Jumbo'
+p776
+aS'Photon'
+p777
+aS'Pretty'
+p778
+aS'Quick'
+p779
+aS'Rowdy'
+p780
+aS'Sacred'
+p781
+aS'Shock'
+p782
+aS'Strike'
+p783
+assS'Cockpit Names'
+p784
+(dp785
+S'Cockpit Name B'
+p786
+(lp787
+S'Air Shot'
+p788
+aS'Blaze Giraffe'
+p789
+aS'Shining Lancer'
+p790
+aS'Mighty Bison'
+p791
+aS'Royal Rider'
+p792
+aS'Tornado Master'
+p793
+aS'Jet Vixen'
+p794
+aS'Shadow Sniper'
+p795
+aS'Fever Unicorn'
+p796
+aS'Flame Lizard'
+p797
+aS'Jewel Mirage'
+p798
+aS'Lunar Lobster'
+p799
+aS'Spicy Tusk'
+p800
+aS'Active Gambler'
+p801
+aS'Crimson King'
+p802
+aS'Misty Serpent'
+p803
+aS'Highway Fighter'
+p804
+aS'Plasma Kite'
+p805
+aS'Ultra Legion'
+p806
+aS'Slash Typhoon'
+p807
+asS'Cockpit Name A'
+p808
+(lp809
+S'Aerial Bullet'
+p810
+aS'Blast Camel'
+p811
+aS'Bright Spear'
+p812
+aS'Crazy Buffalo'
+p813
+aS'Crystal Egg'
+p814
+aS'Combat Cannon'
+p815
+aS'Cyber Fox'
+p816
+aS'Dark Chaser'
+p817
+aS'Energy Crest'
+p818
+aS'Heat Snake'
+p819
+aS'Garnet Phantom'
+p820
+aS'Moon Snail'
+p821
+aS'Muscle Gorilla'
+p822
+aS'Rave Drifter'
+p823
+aS'Red Rex'
+p824
+aS'Scud Viper'
+p825
+aS'Sonic Soldier'
+p826
+aS'Spark Bird'
+p827
+aS'Super Lynx'
+p828
+aS'Windy Shark'
+p829
+assS'Booster Schemes'
+p830
+(dp831
+S'Adjective'
+p832
+(lp833
+S'Body A'
+p834
+aS'Body B'
+p835
+aS'Body A'
+p836
+aS'Body A'
+p837
+aS'Body A'
+p838
+aS'Cockpit A'
+p839
+aS'Cockpit A'
+p840
+aS'Cockpit B'
+p841
+aS'Body B'
+p842
+aS'Cockpit A'
+p843
+aS'Cockpit B'
+p844
+aS'Cockpit B'
+p845
+aS'Cockpit A'
+p846
+aS'Body B'
+p847
+aS'Cockpit A'
+p848
+aS'Body B'
+p849
+aS'Cockpit B'
+p850
+aS'Cockpit B'
+p851
+aS'Body B'
+p852
+aS'Body B'
+p853
+asS'Noun'
+p854
+(lp855
+S'Cockpit A'
+p856
+aS'Cockpit A'
+p857
+aS'Cockpit B'
+p858
+aS'Cockpit B'
+p859
+aS'Cockpit A'
+p860
+aS'Body B'
+p861
+aS'Body B'
+p862
+aS'Body B'
+p863
+aS'Cockpit A'
+p864
+aS'Body A'
+p865
+aS'Body B'
+p866
+aS'Body A'
+p867
+aS'Body B'
+p868
+aS'Cockpit B'
+p869
+aS'Body A'
+p870
+aS'Cockpit A'
+p871
+aS'Body B'
+p872
+aS'Body A'
+p873
+aS'Cockpit A'
+p874
+aS'Cockpit B'
+p875
+asS'Suffix'
+p876
+(lp877
+S'-X'
+p878
+aS'-V'
+p879
+aS'-RX'
+p880
+aS'-ZZ'
+p881
+aS'-EX'
+p882
+aS'-RR'
+p883
+aS'-4X'
+p884
+aS'-88'
+p885
+aS'-R'
+p886
+aS'-V2'
+p887
+aS'-G4'
+p888
+aS'-GT'
+p889
+asS'Booster'
+p890
+(lp891
+S'Bazooka -YS'
+p892
+aS'Bluster -X'
+p893
+aS'Boxer -2C'
+p894
+aS'Comet -V'
+p895
+aS'Devilfish -RX'
+p896
+aS'Euros -01'
+p897
+aS'Extreme -ZZ'
+p898
+aS'Impulse 220'
+p899
+aS'Jupiter -Q'
+p900
+aS'Mars -EX'
+p901
+aS'Meteor -RR'
+p902
+aS'Punisher -4X'
+p903
+aS'Raiden -88'
+p904
+aS'Saturn -SG'
+p905
+aS'Sunrise 140'
+p906
+aS'Scorpion -R'
+p907
+aS'Thunderbolt -V2'
+p908
+aS'Tiger -RZ'
+p909
+aS'Titan -G4'
+p910
+aS'Triangle -GT'
+p911
+ass.
